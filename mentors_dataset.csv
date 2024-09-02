@@ -1,0 +1,11 @@
+Mentor ID,Name,Gender,Age,Expertise,Experience,Skills,Current Position,Preferred Domain,Availability
+M0001,Mentor 1,Female,30,Data Science,20,"Machine Learning, Cloud Services, SQL",Data Scientist,Cybersecurity,Weekends
+M0002,Mentor 2,Male,56,Software Engineering,16,"SQL, Python, Machine Learning",Systems Analyst,AI & ML,Weekends
+M0003,Mentor 3,Female,51,Cybersecurity,11,"Machine Learning, Cloud Services, Python",Systems Analyst,Cybersecurity,Weekends
+M0004,Mentor 4,Female,47,Software Engineering,10,"Python, Java, Machine Learning",Software Engineer,Cybersecurity,Flexible
+M0005,Mentor 5,Male,55,Software Engineering,11,"Java, Machine Learning, Cloud Services",Cloud Architect,AI & ML,Weekends
+M0006,Mentor 6,Female,45,Software Engineering,6,"Python, Cloud Services, Machine Learning",Data Scientist,Software Development,Flexible
+M0007,Mentor 7,Male,44,AI & ML,11,"Python, Java, SQL",Software Engineer,AI & ML,Weekends
+M0008,Mentor 8,Female,36,Cybersecurity,18,"Machine Learning, Java, Cloud Services",Software Engineer,Software Development,Weekends
+M0009,Mentor 9,Female,59,Cybersecurity,20,"Cloud Services, Python, Java",Senior Developer,Cybersecurity,Flexible
+M0010,Mentor 10,Male,59,Data Science,18,"Java, Cloud Services, Machine Learning",Senior Developer,Data Science,Flexible
